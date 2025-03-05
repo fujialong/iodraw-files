@@ -1,12 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2048" dy="1992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#f5f4f4" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#f5f4f4" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zFuWOyxaI5ywIPNlyf5n-3" value="护士操作/抽取his数据" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="209.5011085960274" width="124" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="zFuWOyxaI5ywIPNlyf5n-4" value="添加患者到排队队列" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="169.5011085960274" y="149" width="204" height="49" as="geometry" />
         </mxCell>
@@ -22,21 +19,13 @@
         <mxCell id="zFuWOyxaI5ywIPNlyf5n-8" value="执行过号操作?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="176" y="762" width="151" height="151" as="geometry" />
         </mxCell>
-        <mxCell id="zFuWOyxaI5ywIPNlyf5n-9" value="系统推送呼叫信息到叫号大屏" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry y="1013" width="253" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="zFuWOyxaI5ywIPNlyf5n-10" value="过号患者进入过号列表" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="283" y="1021.5" width="220" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="zFuWOyxaI5ywIPNlyf5n-11" value="患者看到叫号信息前往诊室" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="0.5" y="1179" width="252" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="zFuWOyxaI5ywIPNlyf5n-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;noEdgeStyle=1;orthogonal=1;" parent="1" source="zFuWOyxaI5ywIPNlyf5n-3" target="zFuWOyxaI5ywIPNlyf5n-4" edge="1">
+        <mxCell id="zFuWOyxaI5ywIPNlyf5n-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;noEdgeStyle=1;orthogonal=1;" parent="1" target="zFuWOyxaI5ywIPNlyf5n-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="271.5011085960274" y="61" />
               <mxPoint x="271.5011085960274" y="137" />
             </Array>
+            <mxPoint x="333.5011085960273" y="24.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zFuWOyxaI5ywIPNlyf5n-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.49;rounded=0;noEdgeStyle=1;orthogonal=1;" parent="1" source="zFuWOyxaI5ywIPNlyf5n-4" target="zFuWOyxaI5ywIPNlyf5n-5" edge="1">
@@ -71,7 +60,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFuWOyxaI5ywIPNlyf5n-17" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0;entryX=0;entryY=0.35;rounded=0;noEdgeStyle=1;orthogonal=1;" parent="1" source="zFuWOyxaI5ywIPNlyf5n-7" target="zFuWOyxaI5ywIPNlyf5n-9" edge="1">
+        <mxCell id="zFuWOyxaI5ywIPNlyf5n-17" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0;entryX=0;entryY=0.35;rounded=0;noEdgeStyle=1;orthogonal=1;" parent="1" source="zFuWOyxaI5ywIPNlyf5n-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="171.83333333333334" y="674" />
@@ -79,25 +68,28 @@
               <mxPoint x="146" y="963" />
               <mxPoint x="65.75" y="1001" />
             </Array>
+            <mxPoint y="1036.1" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFuWOyxaI5ywIPNlyf5n-18" value="是(患者未到)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.1;entryY=-0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" parent="1" source="zFuWOyxaI5ywIPNlyf5n-8" target="zFuWOyxaI5ywIPNlyf5n-10" edge="1">
+        <mxCell id="zFuWOyxaI5ywIPNlyf5n-18" value="是(患者未到)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.1;entryY=-0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" parent="1" source="zFuWOyxaI5ywIPNlyf5n-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="286.75" y="925" />
               <mxPoint x="340.5" y="1001" />
             </Array>
+            <mxPoint x="306.72549019607777" y="1021.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFuWOyxaI5ywIPNlyf5n-19" value="否(患者已到)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.27;entryX=0.07;entryY=1.01;rounded=0;noEdgeStyle=1;orthogonal=1;" parent="1" source="zFuWOyxaI5ywIPNlyf5n-8" target="zFuWOyxaI5ywIPNlyf5n-9" edge="1">
+        <mxCell id="zFuWOyxaI5ywIPNlyf5n-19" value="否(患者已到)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.27;entryX=0.07;entryY=1.01;rounded=0;noEdgeStyle=1;orthogonal=1;" parent="1" source="zFuWOyxaI5ywIPNlyf5n-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="216.25" y="925" />
               <mxPoint x="187.25" y="1001" />
             </Array>
+            <mxPoint x="19.84313725490165" y="1079" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFuWOyxaI5ywIPNlyf5n-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.63;entryY=1;rounded=0;noEdgeStyle=1;orthogonal=1;" parent="1" source="zFuWOyxaI5ywIPNlyf5n-10" target="zFuWOyxaI5ywIPNlyf5n-6" edge="1">
+        <mxCell id="zFuWOyxaI5ywIPNlyf5n-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.63;entryY=1;rounded=0;noEdgeStyle=1;orthogonal=1;" parent="1" target="zFuWOyxaI5ywIPNlyf5n-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="445.5" y="1001" />
@@ -107,14 +99,16 @@
               <mxPoint x="376.75" y="563" />
               <mxPoint x="332.61070186578365" y="525" />
             </Array>
+            <mxPoint x="283" y="1054.33" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFuWOyxaI5ywIPNlyf5n-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;noEdgeStyle=1;orthogonal=1;" parent="1" source="zFuWOyxaI5ywIPNlyf5n-9" target="zFuWOyxaI5ywIPNlyf5n-11" edge="1">
+        <mxCell id="zFuWOyxaI5ywIPNlyf5n-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;noEdgeStyle=1;orthogonal=1;" parent="1" source="zFuWOyxaI5ywIPNlyf5n-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="126.5" y="1091" />
               <mxPoint x="126.5" y="1167" />
             </Array>
+            <mxPoint x="0.5" y="1203.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-1" value="护士工作站模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
