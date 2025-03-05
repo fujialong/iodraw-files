@@ -14,31 +14,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-1" value="护士工作站模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-14.5" y="1" width="172" height="49" as="geometry" />
+          <mxGeometry x="378" y="1" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-2" value="核心业务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="35.5" y="161" width="125" height="49" as="geometry" />
+          <mxGeometry x="695" y="116" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-3" value="护士站管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-64.5" y="81" width="172" height="49" as="geometry" />
+          <mxGeometry x="864" y="408" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-4" value="诊室管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-114.5" y="181" width="156" height="49" as="geometry" />
+          <mxGeometry x="805" y="740" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-5" value="科室管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="45.5" y="311" width="156" height="49" as="geometry" />
+          <mxGeometry x="547" y="957" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-6" value="用户管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="155.5" y="141" width="156" height="49" as="geometry" />
+          <mxGeometry x="210" y="957" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-7" value="系统设置模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-44.5" y="251" width="157" height="49" as="geometry" />
+          <mxGeometry x="-48" y="740" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-8" value="叫号大屏模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="75.5" y="61" width="156" height="49" as="geometry" />
+          <mxGeometry x="-107" y="408" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-9" value="医生叫号端模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="95.5" y="221" width="172" height="49" as="geometry" />
+          <mxGeometry x="62" y="116" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.45;entryY=0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="jke7-ngm0jYdUKTKiyxc-1" target="jke7-ngm0jYdUKTKiyxc-2">
           <mxGeometry relative="1" as="geometry" />
