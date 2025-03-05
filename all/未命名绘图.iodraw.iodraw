@@ -17,7 +17,7 @@
           <mxGeometry width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-2" value="核心业务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="698.5" y="149" width="125" height="49" as="geometry" />
+          <mxGeometry x="23.5" y="99" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-3" value="护士站管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="202" width="172" height="49" as="geometry" />
@@ -41,12 +41,7 @@
           <mxGeometry x="1335" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.45;entryY=0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="jke7-ngm0jYdUKTKiyxc-1" target="jke7-ngm0jYdUKTKiyxc-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="86" y="61" />
-              <mxPoint x="710.6875" y="137" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.43;entryY=0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="jke7-ngm0jYdUKTKiyxc-3" target="jke7-ngm0jYdUKTKiyxc-2">
           <mxGeometry relative="1" as="geometry">
