@@ -4,48 +4,48 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-29" value="护士/抽取his数据" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-29" value="护士/抽取his数据" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="20" y="360" width="150" height="1220" as="geometry" />
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-30" value="护士工作站" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-30" value="护士工作站" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="234" y="360" width="150" height="1220" as="geometry" />
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-31" value="系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-31" value="系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="434" y="360" width="150" height="1220" as="geometry" />
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-32" value="医生叫号端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-32" value="医生叫号端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="634" y="360" width="150" height="1220" as="geometry" />
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-33" value="医生" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-33" value="医生" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="834" y="360" width="150" height="1220" as="geometry" />
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-34" value="叫号大屏" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-34" value="叫号大屏" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1034" y="360" width="150" height="1220" as="geometry" />
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-35" value="患者" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-35" value="患者" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1234" y="360" width="150" height="1220" as="geometry" />
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-36" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-36" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#FFFFFF;height=20;width=30;labelBackgroundColor=none;fillColor=#182E3E;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="425" y="1089" width="495" height="262" as="geometry" />
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-37" value="[患者未到]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="ievL-h_IDxeyf1CLyb3E-36">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-37" value="[患者未到]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="ievL-h_IDxeyf1CLyb3E-36">
           <mxGeometry x="30" width="465" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-38" value="添加患者到排队队列" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-29" target="ievL-h_IDxeyf1CLyb3E-30">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-38" value="添加患者到排队队列" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-29" target="ievL-h_IDxeyf1CLyb3E-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="211" y="467" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-39" value="请求添加患者" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-30" target="ievL-h_IDxeyf1CLyb3E-31">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-39" value="请求添加患者" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-30" target="ievL-h_IDxeyf1CLyb3E-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="418" y="519" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-40" value="分配排队号和顺序" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-31" target="ievL-h_IDxeyf1CLyb3E-31">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-40" value="分配排队号和顺序" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-31" target="ievL-h_IDxeyf1CLyb3E-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="571" />
@@ -53,84 +53,84 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-41" value="返回排队信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-31" target="ievL-h_IDxeyf1CLyb3E-30">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-41" value="返回排队信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-31" target="ievL-h_IDxeyf1CLyb3E-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="421" y="653" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-42" value="查看等待患者列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-33" target="ievL-h_IDxeyf1CLyb3E-32">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-42" value="查看等待患者列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-33" target="ievL-h_IDxeyf1CLyb3E-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="821" y="705" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-43" value="请求等待患者列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-32" target="ievL-h_IDxeyf1CLyb3E-31">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-43" value="请求等待患者列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-32" target="ievL-h_IDxeyf1CLyb3E-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="621" y="757" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-44" value="返回等待患者列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-31" target="ievL-h_IDxeyf1CLyb3E-32">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-44" value="返回等待患者列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-31" target="ievL-h_IDxeyf1CLyb3E-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="618" y="809" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-45" value="选择患者进行呼叫" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-33" target="ievL-h_IDxeyf1CLyb3E-32">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-45" value="选择患者进行呼叫" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-33" target="ievL-h_IDxeyf1CLyb3E-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="821" y="861" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-46" value="请求呼叫患者" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-32" target="ievL-h_IDxeyf1CLyb3E-31">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-46" value="请求呼叫患者" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-32" target="ievL-h_IDxeyf1CLyb3E-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="621" y="913" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-47" value="推送呼叫信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-31" target="ievL-h_IDxeyf1CLyb3E-34">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-47" value="推送呼叫信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-31" target="ievL-h_IDxeyf1CLyb3E-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="818" y="965" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-48" value="显示叫号信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-34" target="ievL-h_IDxeyf1CLyb3E-35">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-48" value="显示叫号信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-34" target="ievL-h_IDxeyf1CLyb3E-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1218" y="1017" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-49" value="前往对应诊室就诊" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-35" target="ievL-h_IDxeyf1CLyb3E-33">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-49" value="前往对应诊室就诊" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-35" target="ievL-h_IDxeyf1CLyb3E-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1121" y="1069" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-50" value="执行过号操作" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-33" target="ievL-h_IDxeyf1CLyb3E-32">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-50" value="执行过号操作" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-33" target="ievL-h_IDxeyf1CLyb3E-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="821" y="1167" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-51" value="请求过号" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-32" target="ievL-h_IDxeyf1CLyb3E-31">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-51" value="请求过号" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-32" target="ievL-h_IDxeyf1CLyb3E-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="621" y="1219" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-52" value="患者进入过号列表" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-31" target="ievL-h_IDxeyf1CLyb3E-31">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-52" value="患者进入过号列表" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-31" target="ievL-h_IDxeyf1CLyb3E-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="1271" />
@@ -138,14 +138,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-53" value="就诊完成" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-33" target="ievL-h_IDxeyf1CLyb3E-31">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-53" value="就诊完成" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-33" target="ievL-h_IDxeyf1CLyb3E-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="721" y="1393" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ievL-h_IDxeyf1CLyb3E-54" value="更新患者状态为已完成" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-31" target="ievL-h_IDxeyf1CLyb3E-31">
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-54" value="更新患者状态为已完成" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-31" target="ievL-h_IDxeyf1CLyb3E-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="1445" />
