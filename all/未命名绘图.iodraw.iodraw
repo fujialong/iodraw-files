@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2048" dy="1992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#f5f4f4" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#f5f4f4" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,89 +14,68 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-1" value="护士工作站模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry width="172" height="49" as="geometry" />
+          <mxGeometry x="-14.5" y="1" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-2" value="核心业务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-115.5" y="1.702259050814821e-14" width="125" height="49" as="geometry" />
+          <mxGeometry x="35.5" y="161" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-3" value="护士站管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="202" width="172" height="49" as="geometry" />
+          <mxGeometry x="-64.5" y="81" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-4" value="诊室管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="404" width="156" height="49" as="geometry" />
+          <mxGeometry x="-114.5" y="181" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-5" value="科室管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="590" width="156" height="49" as="geometry" />
+          <mxGeometry x="45.5" y="311" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-6" value="用户管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="776" width="156" height="49" as="geometry" />
+          <mxGeometry x="155.5" y="141" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-7" value="系统设置模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="962" width="157" height="49" as="geometry" />
+          <mxGeometry x="-44.5" y="251" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-8" value="叫号大屏模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1149" width="156" height="49" as="geometry" />
+          <mxGeometry x="75.5" y="61" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-9" value="医生叫号端模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1335" width="172" height="49" as="geometry" />
+          <mxGeometry x="95.5" y="221" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.45;entryY=0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="jke7-ngm0jYdUKTKiyxc-1" target="jke7-ngm0jYdUKTKiyxc-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.43;entryY=0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="jke7-ngm0jYdUKTKiyxc-3" target="jke7-ngm0jYdUKTKiyxc-2">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="288" y="61" />
-              <mxPoint x="725.0625" y="135" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.38;entryY=0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="jke7-ngm0jYdUKTKiyxc-4" target="jke7-ngm0jYdUKTKiyxc-2">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="482" y="61" />
-              <mxPoint x="739.4375" y="133" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.15;entryY=0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="jke7-ngm0jYdUKTKiyxc-5" target="jke7-ngm0jYdUKTKiyxc-2">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="668" y="61" />
-              <mxPoint x="753.8125" y="131" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.15;entryY=1;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="jke7-ngm0jYdUKTKiyxc-6" target="jke7-ngm0jYdUKTKiyxc-2">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="854" y="61" />
-              <mxPoint x="768.1875" y="131" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.38;entryY=1;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="jke7-ngm0jYdUKTKiyxc-7" target="jke7-ngm0jYdUKTKiyxc-2">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1040.5" y="61" />
-              <mxPoint x="782.5625" y="133" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.43;entryY=1;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="jke7-ngm0jYdUKTKiyxc-8" target="jke7-ngm0jYdUKTKiyxc-2">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1227" y="61" />
-              <mxPoint x="796.9375" y="135" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jke7-ngm0jYdUKTKiyxc-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.45;entryY=1;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="jke7-ngm0jYdUKTKiyxc-9" target="jke7-ngm0jYdUKTKiyxc-2">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1421" y="61" />
-              <mxPoint x="811.3125" y="137" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
