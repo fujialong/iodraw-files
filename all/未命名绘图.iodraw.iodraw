@@ -40,7 +40,7 @@
           <mxGeometry x="885" y="360" width="725" height="321" as="geometry" />
         </mxCell>
         <mxCell id="zFuWOyxaI5ywIPNlyf5n-2" value="护士工作站" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="466" width="428" height="119" as="geometry" />
+          <mxGeometry x="100" y="456" width="428" height="119" as="geometry" />
         </mxCell>
         <mxCell id="zFuWOyxaI5ywIPNlyf5n-3" value="护士操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="125" y="501" width="124" height="49" as="geometry" />
