@@ -1,0 +1,196 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-3" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="aM9ryv3xv72pqoxQDRHE-1" target="aM9ryv3xv72pqoxQDRHE-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-15" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
+          <mxGeometry x="50" y="120" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="220" y="40" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="195" y="130" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="180" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-8" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="195" y="205" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-9" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="160" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="190" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-10" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-4" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-1" value="护士工作站" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="432" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-2" value="添加患者到排队队列" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="360" width="193" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-3" value="系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="453" y="432" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-4" value="分配排队号和顺序" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="595" y="367" width="159" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-5" value="医生叫号端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="605" y="531" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-6" value="查看等待患者列表" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="804" y="531" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-7" value="选择患者进行呼叫" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1012" y="531" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-8" value="叫号大屏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="432" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-9" value="患者" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1394" y="432" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-10" value="前往对应诊室就诊" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1572" y="432" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-11" value="医生执行过号操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1572" y="531" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-12" value="过号列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1858" y="590" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-13" value="患者状态更新为已完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="426" width="221" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-1" target="ievL-h_IDxeyf1CLyb3E-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-2" target="ievL-h_IDxeyf1CLyb3E-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-3" target="ievL-h_IDxeyf1CLyb3E-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="391" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0.99;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-3" target="ievL-h_IDxeyf1CLyb3E-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-5" target="ievL-h_IDxeyf1CLyb3E-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-6" target="ievL-h_IDxeyf1CLyb3E-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.42;entryX=0;entryY=0.41;rounded=0;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-3" target="ievL-h_IDxeyf1CLyb3E-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="451" />
+              <mxPoint x="1195" y="451" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.33;entryY=0.99;rounded=0;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-7" target="ievL-h_IDxeyf1CLyb3E-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1195" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-8" target="ievL-h_IDxeyf1CLyb3E-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-9" target="ievL-h_IDxeyf1CLyb3E-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-24" value="未到" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=0.99;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-9" target="ievL-h_IDxeyf1CLyb3E-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1529" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.06;entryY=0;rounded=0;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-11" target="ievL-h_IDxeyf1CLyb3E-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1785" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-26" value="已就诊" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=0;entryX=0.27;entryY=0.01;rounded=0;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-9" target="ievL-h_IDxeyf1CLyb3E-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1529" y="386" />
+              <mxPoint x="1785" y="386" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.61;entryY=0.99;rounded=0;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-12" target="ievL-h_IDxeyf1CLyb3E-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="614" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ievL-h_IDxeyf1CLyb3E-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.6;rounded=0;" edge="1" parent="1" source="ievL-h_IDxeyf1CLyb3E-10" target="ievL-h_IDxeyf1CLyb3E-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1785" y="456" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
