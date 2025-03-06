@@ -4,38 +4,119 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="710" height="290" as="geometry" />
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-1" value="护士工作站模块接口设计" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="3066" height="283" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-2" value="GET /bsqueuing/bs-queuing/consultationPatients" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="43" y="46" width="260" height="84" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-3" value="获取等待就诊患者列表" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="78" y="204" width="191" height="49" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-4" value="GET /bsqueuing/bs-queuing/listByNurseDeskId" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="353" y="46" width="257" height="84" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-5" value="根据护士台id获取队列" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="388" y="204" width="187" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-6" value="GET /bsqueuing/bs-queuing/expirationNumber" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="660" y="46" width="252" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-7" value="获取已过号患者列表" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="699" y="204" width="175" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-8" value="GET /bsqueuing/bs-queuing/abolishBsQueuing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="962" y="46" width="252" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-9" value="获取已弃号患者列表" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="1001" y="204" width="175" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-10" value="POST /bsqueuing/bs-queuing/addBsQueuingForQR" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="1264" y="46" width="252" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-11" value="添加患者" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="1343" y="204" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-12" value="POST /bsqueuing/bs-queuing/CallNumber" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="1566" y="46" width="257" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-13" value="叫号" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="1664" y="204" width="62" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-14" value="GET /bsqueuing/bs-queuing/abolishBsQueuing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="1874" y="46" width="252" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-15" value="弃号" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="1969" y="204" width="62" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-16" value="GET /bsqueuing/bs-queuing/expirationNumber" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="2176" y="46" width="252" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-17" value="过号" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="2271" y="204" width="62" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-18" value="POST /bsqueuing/bs-queuing/ChooseDoctor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="2478" y="46" width="253" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-19" value="分配医生" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="2557" y="204" width="95" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-20" value="POST /bsqueuing/bs-queuing/adjustmentBsQueuing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="2781" y="46" width="258" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-21" value="调整顺序" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+          <mxGeometry x="2863" y="204" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-2" target="PAK2gyDcQP3Mz6hI-Hxo-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-4" target="PAK2gyDcQP3Mz6hI-Hxo-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-6" target="PAK2gyDcQP3Mz6hI-Hxo-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-8" target="PAK2gyDcQP3Mz6hI-Hxo-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-10" target="PAK2gyDcQP3Mz6hI-Hxo-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-12" target="PAK2gyDcQP3Mz6hI-Hxo-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-14" target="PAK2gyDcQP3Mz6hI-Hxo-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-16" target="PAK2gyDcQP3Mz6hI-Hxo-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-18" target="PAK2gyDcQP3Mz6hI-Hxo-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-20" target="PAK2gyDcQP3Mz6hI-Hxo-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
