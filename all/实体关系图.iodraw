@@ -124,6 +124,9 @@
         <mxCell id="yWnxLnij5a9q6QMJ1RYG-9" value="varchar(40) : create_by" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yWnxLnij5a9q6QMJ1RYG-1">
           <mxGeometry y="190.0416660308838" width="239" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="yWnxLnij5a9q6QMJ1RYG-10" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="420" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
