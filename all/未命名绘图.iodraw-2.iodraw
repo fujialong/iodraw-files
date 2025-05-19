@@ -144,7 +144,7 @@
         <mxCell id="VHddzKYlC2OXiQUEcVrb-9" value="医生叫号模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1908" y="235" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VHddzKYlC2OXiQUEcVrb-10" value="正式管理模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="VHddzKYlC2OXiQUEcVrb-10" value="诊室管理模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1482" y="374" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VHddzKYlC2OXiQUEcVrb-11" value="护士工作站模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
