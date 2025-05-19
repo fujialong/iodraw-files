@@ -1,118 +1,118 @@
-<mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1393" dy="1496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="1992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-1" value="护士工作站模块接口设计" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="976" width="3066" height="283" as="geometry" />
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-1" value="护士工作站模块接口设计" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="820" y="-120" width="3066" height="283" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-2" value="GET /bsqueuing/bs-queuing/consultationPatients" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-2" value="GET /bsqueuing/bs-queuing/consultationPatients" style="whiteSpace=wrap;strokeWidth=2;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="43" y="46" width="260" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-3" value="获取等待就诊患者列表" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-3" value="获取等待就诊患者列表" style="rounded=1;arcSize=20;strokeWidth=2" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="78" y="204" width="191" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-4" value="GET /bsqueuing/bs-queuing/listByNurseDeskId" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-4" value="GET /bsqueuing/bs-queuing/listByNurseDeskId" style="whiteSpace=wrap;strokeWidth=2;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="353" y="46" width="257" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-5" value="根据护士台id获取队列" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-5" value="根据护士台id获取队列" style="rounded=1;arcSize=20;strokeWidth=2" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="388" y="204" width="187" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-6" value="GET /bsqueuing/bs-queuing/expirationNumber" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-6" value="GET /bsqueuing/bs-queuing/expirationNumber" style="whiteSpace=wrap;strokeWidth=2;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="660" y="46" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-7" value="获取已过号患者列表" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-7" value="获取已过号患者列表" style="rounded=1;arcSize=20;strokeWidth=2" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="699" y="204" width="175" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-8" value="GET /bsqueuing/bs-queuing/abolishBsQueuing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-8" value="GET /bsqueuing/bs-queuing/abolishBsQueuing" style="whiteSpace=wrap;strokeWidth=2;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="962" y="46" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-9" value="获取已弃号患者列表" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-9" value="获取已弃号患者列表" style="rounded=1;arcSize=20;strokeWidth=2" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="1001" y="204" width="175" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-10" value="POST /bsqueuing/bs-queuing/addBsQueuingForQR" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-10" value="POST /bsqueuing/bs-queuing/addBsQueuingForQR" style="whiteSpace=wrap;strokeWidth=2;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="1264" y="46" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-11" value="添加患者" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-11" value="添加患者" style="rounded=1;arcSize=20;strokeWidth=2" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="1343" y="204" width="94" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-12" value="POST /bsqueuing/bs-queuing/CallNumber" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-12" value="POST /bsqueuing/bs-queuing/CallNumber" style="whiteSpace=wrap;strokeWidth=2;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="1566" y="46" width="257" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-13" value="叫号" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-13" value="叫号" style="rounded=1;arcSize=20;strokeWidth=2" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="1664" y="204" width="62" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-14" value="GET /bsqueuing/bs-queuing/abolishBsQueuing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-14" value="GET /bsqueuing/bs-queuing/abolishBsQueuing" style="whiteSpace=wrap;strokeWidth=2;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="1874" y="46" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-15" value="弃号" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-15" value="弃号" style="rounded=1;arcSize=20;strokeWidth=2" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="1969" y="204" width="62" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-16" value="GET /bsqueuing/bs-queuing/expirationNumber" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-16" value="GET /bsqueuing/bs-queuing/expirationNumber" style="whiteSpace=wrap;strokeWidth=2;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="2176" y="46" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-17" value="过号" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-17" value="过号" style="rounded=1;arcSize=20;strokeWidth=2" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="2271" y="204" width="62" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-18" value="POST /bsqueuing/bs-queuing/ChooseDoctor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-18" value="POST /bsqueuing/bs-queuing/ChooseDoctor" style="whiteSpace=wrap;strokeWidth=2;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="2478" y="46" width="253" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-19" value="分配医生" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-19" value="分配医生" style="rounded=1;arcSize=20;strokeWidth=2" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="2557" y="204" width="95" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-20" value="POST /bsqueuing/bs-queuing/adjustmentBsQueuing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-20" value="POST /bsqueuing/bs-queuing/adjustmentBsQueuing" style="whiteSpace=wrap;strokeWidth=2;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="2781" y="46" width="258" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-21" value="调整顺序" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-21" value="调整顺序" style="rounded=1;arcSize=20;strokeWidth=2" parent="PAK2gyDcQP3Mz6hI-Hxo-1" vertex="1">
           <mxGeometry x="2863" y="204" width="94" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-2" target="PAK2gyDcQP3Mz6hI-Hxo-3">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-2" target="PAK2gyDcQP3Mz6hI-Hxo-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-4" target="PAK2gyDcQP3Mz6hI-Hxo-5">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-4" target="PAK2gyDcQP3Mz6hI-Hxo-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-6" target="PAK2gyDcQP3Mz6hI-Hxo-7">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-6" target="PAK2gyDcQP3Mz6hI-Hxo-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-8" target="PAK2gyDcQP3Mz6hI-Hxo-9">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-8" target="PAK2gyDcQP3Mz6hI-Hxo-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-10" target="PAK2gyDcQP3Mz6hI-Hxo-11">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-10" target="PAK2gyDcQP3Mz6hI-Hxo-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-12" target="PAK2gyDcQP3Mz6hI-Hxo-13">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-12" target="PAK2gyDcQP3Mz6hI-Hxo-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-14" target="PAK2gyDcQP3Mz6hI-Hxo-15">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-14" target="PAK2gyDcQP3Mz6hI-Hxo-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-16" target="PAK2gyDcQP3Mz6hI-Hxo-17">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-16" target="PAK2gyDcQP3Mz6hI-Hxo-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-18" target="PAK2gyDcQP3Mz6hI-Hxo-19">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-18" target="PAK2gyDcQP3Mz6hI-Hxo-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-20" target="PAK2gyDcQP3Mz6hI-Hxo-21">
+        <mxCell id="PAK2gyDcQP3Mz6hI-Hxo-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="PAK2gyDcQP3Mz6hI-Hxo-1" source="PAK2gyDcQP3Mz6hI-Hxo-20" target="PAK2gyDcQP3Mz6hI-Hxo-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
